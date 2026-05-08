@@ -130,8 +130,8 @@ vigneshwari = {
 
 <div align="center">
 
-![PSM](https://img.shields.io/badge/PSM%20I-Professional%20Scrum%20Master-6db33f?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure%20AI--900-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+[![Azure AI-900](https://img.shields.io/badge/Azure%20AI--900-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/e269689d-86a4-490f-a78a-fcc18d3ce10d)
+[![PSM I](https://img.shields.io/badge/PSM%20I-Professional%20Scrum%20Master-6db33f?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.credly.com/badges/8ecd3b5f-5c9e-4b2b-9ed8-8c007f8a37a6)
 
 </div>
 
