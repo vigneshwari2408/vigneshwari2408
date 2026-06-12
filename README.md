@@ -2,21 +2,44 @@
 
 # Vigneshwari Nalla
 
-*Most of my career started with asking why.*
+*Understanding how organisations work became my career.*
+*Analytics gave me better questions to ask.*
 
-Operations · Business Analysis · Process Improvement
+&nbsp;
 
-📍 Paris, France &nbsp;·&nbsp; 🎓 KEDGE Business School
+📍 Paris, France &nbsp;·&nbsp; Operations · Business Analysis · Process Improvement
 
 </div>
 
 ---
 
-4+ years inside healthcare, HR technology, and financial services — studying why processes break, building better ones, and helping teams make decisions that actually hold.
+> This is where I document the work, questions, and analysis behind the story.
+> The portfolio is at [vigneshwari.dev](#) *(add your link)*
 
-Analytics is a tool I use. Curiosity is who I am.
+---
 
-*The portfolio tells the story →* [vigneshwari.dev](#) *(add your link)*
+## 📍 Current Chapter
+
+| | |
+|---|---|
+| 🎓 | MSc Data Analytics for Business — KEDGE Business School |
+| 🔍 | Seeking Operations & Business Analysis internship in France & the EU |
+| 📊 | Building analytics projects from real operational problems |
+| 🇫🇷 | Learning French *(A2, en progrès)* |
+
+---
+
+## 🗂 Career Chapters
+
+Four industries. One consistent question: *why does this keep breaking?*
+
+**Healthcare Operations** &nbsp;·&nbsp; Claims processing, COB analysis, rejection patterns, HIPAA compliance
+
+**Financial Operations** &nbsp;·&nbsp; KPI monitoring, exception reporting, transaction reconciliation, SLA compliance
+
+**HR Technology** &nbsp;·&nbsp; HRIS integrations, benefits administration, ACA & COBRA compliance, multi-client portfolio management
+
+**Analytics** &nbsp;·&nbsp; SQL, Power BI, Tableau, process improvement, operational reporting
 
 ---
 
@@ -30,9 +53,9 @@ Analytics is a tool I use. Curiosity is who I am.
 
 > *Which suppliers are we relying on too much — and do we even know it?*
 
-Mapped supplier concentration across commodity groups using HHI scoring in SQL. Turns out, a small number of suppliers were carrying a disproportionate amount of risk — quietly.
+Mapped supplier concentration across commodity groups using HHI scoring in SQL. A small number of suppliers were carrying a disproportionate amount of risk — quietly.
 
-`SQL` `Tableau` &nbsp; · &nbsp; [Repository](https://github.com/vigneshwari2408/01-trade-analytics-dashboard) &nbsp; · &nbsp; [Dashboard](https://public.tableau.com)
+`SQL` `Tableau` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/01-trade-analytics-dashboard) &nbsp;·&nbsp; [Dashboard](https://public.tableau.com)
 
 ---
 
@@ -42,7 +65,7 @@ Mapped supplier concentration across commodity groups using HHI scoring in SQL. 
 
 Built from 2+ years of real claims work. Not sample data. Every rejection pattern in here is something I've seen up close.
 
-`SQL` `Power BI` &nbsp; · &nbsp; [Repository](https://github.com/vigneshwari2408/02-healthcare-claims-dashboard)
+`SQL` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/02-healthcare-claims-dashboard)
 
 ---
 
@@ -50,9 +73,9 @@ Built from 2+ years of real claims work. Not sample data. Every rejection patter
 
 > *Where do employee requests get stuck — and why does resolution time vary so much?*
 
-Drawing on a 50-client HRIS portfolio and a lot of time spent tracing where handoffs quietly fell apart.
+Drawing on a 50-client HRIS portfolio and time spent tracing where handoffs quietly fell apart.
 
-`Excel` `Power BI` &nbsp; · &nbsp; [Repository](https://github.com/vigneshwari2408/03-hr-operations-dashboard)
+`Excel` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/03-hr-operations-dashboard)
 
 ---
 
@@ -60,9 +83,9 @@ Drawing on a 50-client HRIS portfolio and a lot of time spent tracing where hand
 
 > *What metrics actually matter — and how do we make them visible to the people who need them?*
 
-Not a dashboard for dashboards' sake. Designed around the question of what operational performance actually looks like from the inside.
+Designed around what operational performance actually looks like from the inside, not from a reporting template.
 
-`SQL` `Power BI` &nbsp; · &nbsp; [Repository](https://github.com/vigneshwari2408/04-operational-kpi-dashboard)
+`SQL` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/04-operational-kpi-dashboard)
 
 ---
 
@@ -71,7 +94,7 @@ Not a dashboard for dashboards' sake. Designed around the question of what opera
 
 <br>
 
-Course work from the MSc Data Analytics for Business programme.
+Course work from the MSc Data Analytics for Business programme. Kept separate — these are classroom projects, not operational ones.
 
 | Project | Tools |
 |---|---|
@@ -87,11 +110,10 @@ Course work from the MSc Data Analytics for Business programme.
 
 ## 📓 Notes
 
-- Currently learning French. *(A2, en progrès 🇫🇷)*
-- Building dashboards from real operational problems, not sample datasets.
-- Trying to ask better questions than yesterday.
 - Still curious about why things break.
-- Open to internship and full-time roles in France and the EU.
+- Building from real problems, not practice datasets.
+- Trying to ask better questions than yesterday.
+- Open to internship and full-time roles across France and the EU.
 
 ---
 
