@@ -119,7 +119,7 @@ Course work from the MSc Data Analytics for Business programme. Kept separate 鈥
 
 <div align="center">
 
-[Portfolio](#) &nbsp;路&nbsp; [LinkedIn](https://www.linkedin.com/in/vigna24) &nbsp;路&nbsp; [Email](mailto:vigna2408@gmail.com)
+[https://vigneshwari2408.github.io/vigneshwari-portfolio/](#) &nbsp;路&nbsp; [LinkedIn](https://www.linkedin.com/in/vigna24) &nbsp;路&nbsp; [Email](mailto:vigna2408@gmail.com)
 
 *The portfolio tells the story. This is the work behind it.*
 
