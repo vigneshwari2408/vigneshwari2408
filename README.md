@@ -14,7 +14,6 @@
 ---
 
 > This is where I document the work, questions, and analysis behind the story.
-> The portfolio is at [vigneshwari.dev](#) *(add your link)*
 
 ---
 
@@ -48,14 +47,13 @@ Four industries. One consistent question: *why does this keep breaking?*
 *Each one started with a question I couldn't leave alone.*
 
 &nbsp;
-
 **01 · Healthcare Claims Analytics Dashboard** &nbsp; 🔨
 
 > *Why are claims being rejected — and where exactly does the process break down?*
 
 Built from 2+ years of real claims work. Not sample data. Every rejection pattern in here is something I've seen up close.
 
-`SQL` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/02-healthcare-claims-dashboard)
+`SQL` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/healthcare-claims-analytics-dashboard)
 
 ---
 
@@ -65,17 +63,19 @@ Built from 2+ years of real claims work. Not sample data. Every rejection patter
 
 Drawing on a 50-client HRIS portfolio and time spent tracing where handoffs quietly fell apart.
 
-`Excel` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/03-hr-operations-dashboard)
+`Excel` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/hr-support-desk-analytics)
 
 ---
 
-**03 · Operational KPI Dashboard** &nbsp; 🔨
+**03 · Project Portfolio Performance Dashboard** &nbsp; 🔨
 
-> *What metrics actually matter — and how do we make them visible to the people who need them?*
+> *How do you monitor 1,000 projects across budget, milestones, and teams — all in one view?*
 
-Designed around what operational performance actually looks like from the inside, not from a reporting template.
+Built a 4-page Power BI dashboard simulating a real PMO environment. Cleaned and enriched a 1,000-row dataset using Power Query, validated business questions with SQL in DB Browser, and visualized portfolio performance across budget variance, milestone completion, and regional delivery.
 
-`SQL` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/04-operational-kpi-dashboard)
+Key findings: Portfolio running 4.75% over budget, 22% of projects at risk, HR department with highest cost overrun at 8.1%, and 203 projects with no assigned manager.
+
+SQL | Power BI | Power Query | Data Cleaning | PMO Analysis &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/project-portfolio-performance-dashboard)
 
 ---
 
