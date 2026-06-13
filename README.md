@@ -49,17 +49,7 @@ Four industries. One consistent question: *why does this keep breaking?*
 
 &nbsp;
 
-**01 · Trade Analytics Dashboard** &nbsp; ✅
-
-> *Which suppliers are we relying on too much — and do we even know it?*
-
-Mapped supplier concentration across commodity groups using HHI scoring in SQL. A small number of suppliers were carrying a disproportionate amount of risk — quietly.
-
-`SQL` `Tableau` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/01-trade-analytics-dashboard) &nbsp;·&nbsp; [Dashboard](https://public.tableau.com)
-
----
-
-**02 · Healthcare Claims Analytics Dashboard** &nbsp; 🔨
+**01 · Healthcare Claims Analytics Dashboard** &nbsp; 🔨
 
 > *Why are claims being rejected — and where exactly does the process break down?*
 
@@ -69,7 +59,7 @@ Built from 2+ years of real claims work. Not sample data. Every rejection patter
 
 ---
 
-**03 · HR Operations Analytics Dashboard** &nbsp; 🔨
+**02 · HR Operations Analytics Dashboard** &nbsp; 🔨
 
 > *Where do employee requests get stuck — and why does resolution time vary so much?*
 
@@ -79,7 +69,7 @@ Drawing on a 50-client HRIS portfolio and time spent tracing where handoffs quie
 
 ---
 
-**04 · Operational KPI Dashboard** &nbsp; 🔨
+**03 · Operational KPI Dashboard** &nbsp; 🔨
 
 > *What metrics actually matter — and how do we make them visible to the people who need them?*
 
