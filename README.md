@@ -1,113 +1,70 @@
-<div align="center">
-
-# Vigneshwari Nalla
-
-*Understanding how organisations work became my career.*
-*Analytics gave me better questions to ask.*
+<a href="https://vigneshwari2408.github.io/vigneshwari-portfolio/"><img src="assets/header.png" alt="hi, i'm Vigneshwari (Vee). business × operations × data, paris" width="100%"></a>
 
 &nbsp;
 
-📍 Paris, France &nbsp;·&nbsp; Operations · Business Analysis · Process Improvement
+the plot so far: 4+ years in healthcare and benefits operations. claims, reconciliations, and systems that absolutely refused to talk to each other. somewhere in there i got a bit obsessed with *why* things kept breaking. turns out that's basically analytics.
 
-</div>
+so now i'm in paris doing an MSc in data analytics for business at KEDGE, working out what the numbers are actually saying (vs what they look like they're saying).
 
----
-
-This is where I document the work, questions, and analysis behind the story.
-
----
-
-## 📍 Current Chapter
-
-| | |
-|---|---|
-| 🎓 | MSc Data Analytics for Business — KEDGE Business School |
-| 🔍 | Seeking Operations & Business Analysis internship in France & the EU |
-| 📊 | Building analytics projects from real operational problems |
-| 🇫🇷 | Learning French *(A2, en progrès)* |
-
----
-
-## 🗂 Career Chapters
-
-Four industries. One consistent question: *why does this keep breaking?*
-
-**Healthcare Operations** &nbsp;·&nbsp; Claims processing, COB analysis, rejection patterns, HIPAA compliance
-
-**Financial Operations** &nbsp;·&nbsp; KPI monitoring, exception reporting, transaction reconciliation, SLA compliance
-
-**HR Technology** &nbsp;·&nbsp; HRIS integrations, benefits administration, ACA & COBRA compliance, multi-client portfolio management
-
-**Analytics** &nbsp;·&nbsp; SQL, Power BI, Tableau, process improvement, operational reporting
-
----
-
-## 📌 Projects
-
-*Each one started with a question I couldn't leave alone.*
+this is where the work lives. the [website](https://vigneshwari2408.github.io/vigneshwari-portfolio/) is where the rest of me lives ♡
 
 &nbsp;
-**01 · Healthcare Claims Analytics Dashboard** &nbsp; 🔨
 
-*Why are claims being rejected — and where exactly does the process break down?*
+### things i've investigated
 
-Two years in healthcare claims operations taught me where rejections actually come from. This project rebuilds that lens on a public Kaggle claims dataset — same diagnostic questions, same approach, applied to open data.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/vigneshwari2408/porsche-margin-recovery"><img src="assets/case-porsche.png" alt="case 01 · Porsche" width="100%"></a>
+<br><b>case 01 · porsche</b><br>
+the headline said recovery. i rebuilt the H1 2026 margin from 27 of porsche's own documents to see what was underneath.<br>
+<sub>PostgreSQL · Excel · Power BI · Python</sub><br>
+<a href="https://vigneshwari2408.github.io/porsche-margin-recovery/">read the case</a> · <a href="https://github.com/vigneshwari2408/porsche-margin-recovery">repo</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/vigneshwari2408/loreal-ai-discovery-measurement"><img src="assets/case-loreal.png" alt="case 02 · L'Oréal" width="100%"></a>
+<br><b>case 02 · l'oréal</b><br>
+a purchase tagged "AI-referred" only proves a signal fired. so how would you know what AI discovery actually delivers?<br>
+<sub>Excel · company reports · Eurostat · FRED</sub><br>
+<a href="https://vigneshwari2408.github.io/loreal-ai-discovery-measurement/">read the case</a> · <a href="https://github.com/vigneshwari2408/loreal-ai-discovery-measurement">repo</a>
+</td>
+</tr>
+</table>
 
-`SQL` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/healthcare-claims-analytics-dashboard)
+<sub>case 03 is in the works ✎</sub>
 
----
+&nbsp;
 
-**02 · HR Operations Analytics Dashboard** &nbsp; 🔨
+### older things i've built
 
-*Where do employee requests get stuck — and why does resolution time vary so much?*
+- **[healthcare claims dashboard](https://github.com/vigneshwari2408/healthcare-claims-analytics-dashboard)** · claim volumes, denial rates and root causes, so at-risk claims get caught early · <sub>SQL · Power BI</sub>
+- **[HR operations dashboard](https://github.com/vigneshwari2408/hr-support-desk-analytics)** · ticket volumes, resolution time, SLAs and escalations · <sub>Power Query · Power BI</sub>
+- **[project performance dashboard](https://github.com/vigneshwari2408/project-portfolio-performance-dashboard)** · budget, milestones and burn rate for 1,000 projects, with RAG status · <sub>SQL · Power BI</sub>
 
-The questions come from managing a 50-client HRIS portfolio and watching handoffs break down. Built on a public support-ticket dataset to rebuild that same diagnostic approach end to end.
+&nbsp;
 
-`Excel` `Power BI` &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/hr-support-desk-analytics)
+### currently figuring out
 
----
-
-**03 · Project Portfolio Performance Dashboard** &nbsp; 🔨
-
-*How do you monitor 1,000 projects across budget, milestones, and teams — all in one view?*
-
-Built a 4-page Power BI dashboard simulating a real PMO environment. Cleaned and enriched a 1,000-row dataset using Power Query, validated business questions with SQL in DB Browser, and visualized portfolio performance across budget variance, milestone completion, and regional delivery.
-
-Key findings: Portfolio running 4.75% over budget, 22% of projects at risk, HR department with highest cost overrun at 8.1%, and 203 projects with no assigned manager.
-
-SQL | Power BI | Power Query | Data Cleaning | PMO Analysis &nbsp;·&nbsp; [Repository](https://github.com/vigneshwari2408/project-portfolio-performance-dashboard)
-
----
+**my MSc thesis:** when netflix adapts a book, does it actually shift demand for the novel, or was the book already on its way up? &nbsp;·&nbsp; [follow along](https://github.com/vigneshwari2408/netflix-thesis-analysis)
 
 <details>
-<summary>📚 Academic Projects — KEDGE MSc</summary>
-
+<summary><b>class projects from the MSc</b></summary>
 <br>
 
-Course work from the MSc Data Analytics for Business programme. Kept separate — these are classroom projects, not operational ones.
-
-| Project | Tools |
-|---|---|
-| China Import Engine | Python |
-| BNP Paribas Persona Simulator | Python · NLP |
-| L'Oréal NLP Project | Python · NLP |
-| La Roche-Posay Forecasting | Python |
-| Netflix Thesis Analysis | Python · SQL |
+[china import engine](https://github.com/vigneshwari2408/china-import-engine) · [BNP Paribas persona simulator](https://github.com/vigneshwari2408/bnp-paribas-persona-simulator) · [L'Oréal skin-condition NLP](https://github.com/vigneshwari2408/loreal-skin-condition-nlp) · [La Roche-Posay sales forecasting](https://github.com/vigneshwari2408/la-roche-posay-sales-forecasting)
 
 </details>
 
----
+&nbsp;
 
-## 📓 Notes
+### what work taught me
 
-Still curious about why things break. Building from real problems, not practice datasets. Trying to ask better questions than yesterday. Open to internship and full-time roles across France and the EU.
+before the MSc: benefits operations at TriNet Zenefits, claims at Optum and Legato, a stint in financial operations at Northern Trust. different companies, same habit. i kept getting more curious about *why* something broke than about fixing it twice.
 
----
+&nbsp;
 
-<div align="center">
-
-[Portfolio](https://vigneshwari2408.github.io/vigneshwari-portfolio/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vigna24) &nbsp;·&nbsp; [Email](mailto:vigna2408@gmail.com)
-
-*The portfolio tells the story. This is the work behind it.*
-
-</div>
+<p align="center">
+<b>come say hi</b><br>
+<a href="https://vigneshwari2408.github.io/vigneshwari-portfolio/">website</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/vigna24">linkedin</a> &nbsp;·&nbsp; <a href="mailto:vigna2408@gmail.com">email</a><br>
+<sub>open to business, operations & business analysis roles in france and the EU</sub>
+</p>
