@@ -38,7 +38,7 @@ a purchase tagged "AI-referred" only proves a signal fired. so how would you kno
 ### older things i've built
 
 - **[healthcare claims dashboard](https://github.com/vigneshwari2408/healthcare-claims-analytics-dashboard)** · claim volumes, denial rates and root causes, so at-risk claims get caught early · <sub>SQL · Power BI</sub>
-- **[HR operations dashboard](https://github.com/vigneshwari2408/hr-support-desk-analytics)** · ticket volumes, resolution time, SLAs and escalations · <sub>Power Query · Power BI</sub>
+- **[HR operations dashboard](https://github.com/vigneshwari2408/hr-support-desk-analytics)** · 2,330 support tickets: SLA compliance, resolution time and where requests get stuck · <sub>SQL · Python · Tableau</sub>
 - **[project performance dashboard](https://github.com/vigneshwari2408/project-portfolio-performance-dashboard)** · budget, milestones and burn rate for 1,000 projects, with RAG status · <sub>SQL · Power BI</sub>
 
 &nbsp;
